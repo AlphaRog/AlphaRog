@@ -19,3 +19,5 @@
 </p>
 
 <h3 align = "right">Scorpi0</h3>
+
+![logoIcon](https://github.com/Pavithra-cj/Pizza_creed/assets/84024015/bbf2c569-e45d-46de-ba08-c8dcd32d2921)
